@@ -1,0 +1,35 @@
+{
+    "name": "blog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect insex.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HUYTIEUQUY/blog_nodejs.git"
+    },
+    "keywords": [
+        "huy",
+        "blog",
+        "huy",
+        "blog",
+        "blog",
+        "huy"
+    ],
+    "author": "khac huy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HUYTIEUQUY/blog_nodejs/issues"
+    },
+    "homepage": "https://github.com/HUYTIEUQUY/blog_nodejs#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-load": "^1.1.16"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
